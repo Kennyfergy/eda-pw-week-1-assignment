@@ -19,4 +19,4 @@ to check what has changed, and what you may add with git commit
 # 9 - What does the command 'git add .' do?
 adds all files in current directory
 # 10 - What is the command to push your committed changes to your repo on GitHub?
-git push origin main test
+git push origin main
